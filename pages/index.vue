@@ -137,9 +137,9 @@ export default {
   methods: {
     prompt() {
       this.$buefy.dialog.prompt({
-        title: "Welcome",
+        title: "Hey! You're here!",
         type: "is-success",
-        message: `Enter a username`,
+        message: `Enter a name`,
         inputAttrs: {
           maxlength: 12
         },
