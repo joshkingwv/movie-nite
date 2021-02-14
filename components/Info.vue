@@ -4,10 +4,10 @@
       <div class="card-content ">
         <div class="media">
           <div class="media-content">
-            <p class="title is-4 has-text-light	">Radium</p>
+            <p class="title is-4 has-text-light	">Movie • Nite</p>
             <p class="subtitle is-6 has-text-light">
               <a
-                href="https://github.com/zibbp/radium"
+                href="#"
                 class="has-text-success"
                 target="_blank"
                 >Github</a
@@ -17,25 +17,24 @@
         </div>
 
         <div class="content">
-          Synced stream and video playback with VOD capabilities utilizing HLS.
-          Developed for movie nights but has many use cases.
+          #
           <br /><br />
           <code>Version {{ version }}</code
           ><br />
           <a
-            href="https://github.com/Zibbp/Radium/releases"
+            href="#"
             target="_blank"
             class="has-text-success"
             >Changelog</a
           >
           <br /><br />
           <p class="subtitle is-6 has-text-light ">
-            Developed by
-            <span class="has-text-weight-bold has-text-info">Zibbp</span>
+            #
+            <span class="has-text-weight-bold has-text-info">#</span>
           </p>
           <a
             class="button is-dark is-small"
-            href="https://github.com/Zibbp"
+            href="#"
             target="_blank"
           >
             <b-icon icon="github"></b-icon>

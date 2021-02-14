@@ -32,14 +32,14 @@ export default {
     return {
       nowplaying: false,
       media: {
-        Poster: "/radium_playing_poster.png",
-        Title: "Radium",
+        Poster: "/mn_playing_poster.png",
+        Title: "Movie Nite",
         Year: "2020",
         Rated: "PG",
         Runtime: "42 min",
         Genre: "VueJS, Javascript, Socket.IO, HLS",
         Plot:
-          "Enter the TV Show or Movie below the player, in the advanced controls, to let the room know what's streaming.",
+          "Enter plot/description here",
         imdbRating: "9.3"
       }
     };

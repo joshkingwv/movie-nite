@@ -4,7 +4,7 @@
     <video
       ref="videoPlayer"
       class="video-js vjs-radium-theme"
-      poster="/radium_poster.png"
+      poster="/mn_poster.png"
       crossorigin="anonymous"
     >
       <track kind="captions" :src="subtitleUrl" srclang="en" label="default" />

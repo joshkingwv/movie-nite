@@ -1,13 +1,13 @@
 {
-    "name": "Radium",
-    "description": "Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.",
-    "repository": "https://github.com/Zibbp/Radium",
-    "logo": "https://raw.githubusercontent.com/Zibbp/Radium/master/static/android-chrome-512x512.png",
+    "name": "movie•nite",
+    "description": "Group stream and video playback with VOD capabilities utilizing HLS. Made for movie nights.",
+    "repository": "https://github.com/joshkingwv/movie-nite",
+    "logo": "https://raw.githubusercontent.com/joshkingwv/movie-nite/master/static/android-chrome-512x512.png",
     "keywords": ["node", "vue", "stream", "hls", "movie", "sync", "watch"],
     "image": "heroku/nodejs",
     "env": {
       "BASE_URL": {
-        "description": "URL of the application - For Heroku it will be: https://APP-NAME.herokuapp.com   Replace APP-NAME with the name entered above.",
+        "description": "URL of the application - For Heroku it will be: https://movie-nite.herokuapp.com   Replace APP-NAME with the name entered above.",
         "required": true
       },
       "HLS_URL": {

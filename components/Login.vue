@@ -2,7 +2,7 @@
   <form v-on:submit.prevent>
     <div class="modal-card" style="width: auto">
       <header class="modal-card-head">
-        <p class="modal-card-title">Radium Protect 🔒</p>
+        <p class="modal-card-title">Movie • Nite Protect 🔒</p>
       </header>
       <section class="modal-card-body">
         <b-field class="has-text-white" label="Username">

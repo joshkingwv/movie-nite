@@ -20,7 +20,7 @@
             Visit the
             <a
               class="link"
-              href="https://github.com/zibbp/radium/wiki"
+              href="#"
               target="_blank"
               >documentation</a
             >
